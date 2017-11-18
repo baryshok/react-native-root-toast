@@ -1,10 +1,10 @@
 {
-    "version": "2.2.0",
-    "name": "react-native-root-toast",
+    "version": "2.2.1",
+    "name": "baryshok-react-native-root-toast",
     "description": "react native toast like component, pure javascript solution",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-toast"
+        "url": "https://github.com/baryshok/react-native-root-toast"
     },
     "license": "MIT",
     "main": "./index.js",
